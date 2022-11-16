@@ -1,0 +1,35 @@
+PROCESS-NAME,Music
+PROCESS-NAME,NeteaseMusic
+DOMAIN-SUFFIX,sstatic.net
+PROCESS-NAME,QQ
+USER-AGENT,*com.apple.mobileme.fmip1
+USER-AGENT,*WeatherFoundation*
+USER-AGENT,%E5%9C%B0%E5%9B%BE*
+USER-AGENT,%E8%AE%BE%E7%BD%AE*
+USER-AGENT,com.apple.geod*
+USER-AGENT,com.apple.Maps
+USER-AGENT,FindMyFriends*
+USER-AGENT,FindMyiPhone*
+USER-AGENT,FMDClient*
+USER-AGENT,FMFD*
+USER-AGENT,fmflocatord*
+USER-AGENT,geod*
+USER-AGENT,locationd*
+USER-AGENT,Maps*
+PROCESS-NAME,Backup and Sync
+USER-AGENT,MicroMessenger Client
+USER-AGENT,MobileAsset*
+USER-AGENT,WeChat*
+USER-AGENT,MApi*
+DOMAIN-KEYWORD,fengguang
+DOMAIN-KEYWORD,taobao
+DOMAIN-SUFFIX,cn
+DOMAIN,ip.bjango.com
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,local
+IP-CIDR,192.168.0.0/16
+IP-CIDR,10.0.0.0/8
+IP-CIDR,172.16.0.0/12
+IP-CIDR,127.0.0.0/8
+IP-CIDR,100.64.0.0/10
